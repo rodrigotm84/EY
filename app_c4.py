@@ -1,3 +1,7 @@
+# Author: Rodrigo Miyamoto
+# FGV-RJ/EPGE
+# Version 2024-10-31
+
 import streamlit as st
 import pandas 
 import numpy as np
